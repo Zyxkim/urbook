@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UrBook</string>
+
+    <string name="login">Log In</string>
+    <string name="register">Sign Up</string>
+
+    <string name="go_register">Don\'t have Account yet? Sign Up</string>
+    <string name="go_reset_pass">Forgot Password?</string>
+    <string name="go_login">Already have Account? Log In</string>
+
+    <string name="email">E-mail</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
